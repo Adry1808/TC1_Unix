@@ -12,4 +12,5 @@ Tena
  ##RAM instalada## 4,00 GB (3,83 GB utilizable)
  
  ###Programas Utilizados##
-   Git
+ 
+  - Git
